@@ -71,8 +71,8 @@ def run():
             if_exists='append'
         )
 
-    if __name__ == '__main__':
-        run()
+if __name__ == '__main__':
+    run()
 
 
 
